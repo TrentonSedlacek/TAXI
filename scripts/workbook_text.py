@@ -22,14 +22,14 @@ EVALUATION = [
     "have had 43 to 48 men, about 55% of the median house (78 in Spring 2026). Over the same years total IFC "
     "membership grew from 1,641 men (Fall 2018) to 1,980 (Fall 2025), so the drop is ours, not the market's.",
 
-    "Recruiting volume: new members per calendar year were 34 (2019), 24 (2021), 17 (2024) and 15 (2025). "
-    "UNL's reports are missing a term in 2020, 2022 and 2023, so those years are blank. The average IFC house took 24 to 27 a year, so our recruiting index "
+    "Recruiting volume: new members per calendar year were 34 (2019), 34 (2020), 24 (2021), 21 (2022), "
+    "19 (2023), 17 (2024) and 15 (2025). The average IFC house took 24 to 27 a year, so our recruiting index "
     "fell from 143 in 2019 to 99 in 2021, 68 in 2024 and 56 in 2025. Our share of all IFC new members fell from "
     "5.4% to 2.3%, where an equal share is about 4%.",
 
-    "Replacement: in the years UNL's reports cover fully, the replacement index was 86 (2021), 59 (2024) and "
-    "79 (2025), so we lost more men than we brought in. Our Fall roster has dropped every year since 2019: "
-    "86, 78, 74, 71, 60, 48, 44.",
+    "Replacement: the replacement index has been under 100 every year from 2020 through 2025: 81, 86, 88, 63, "
+    "59 and 79. Each year we lost more men than we brought in. Our Fall roster has dropped every year since "
+    "2019: 86, 78, 74, 71, 60, 48, 44.",
 
     "For our size, recruiting is closer to normal: the 2025 size-adjusted index was 89. So the problem is less "
     "that each member recruits badly and more that a smaller house brings in a smaller class, which shrinks the "
@@ -53,9 +53,8 @@ EVALUATION = [
 
     "Caveats: UNL has no Fall 2023 scorecard, so that semester uses the Fall 2023 All-Community Grade Report "
     "(GPA and members for every house, but no new-member counts). UNL's Spring 2020 report has no GPAs "
-    "(pass/no-pass semester), and the Spring 2020 and Spring 2022 reports leave out new members. Some of our "
-    "chapter records disagree with UNL's reports (for example Fall 2019: 77 vs 86 members). UNL's numbers are "
-    "used everywhere so every house is measured the same way.",
+    "(pass/no-pass semester), and the Spring 2020 and Spring 2022 reports leave out new members. Where UNL left "
+    "a Theta Xi number blank, our own records fill it. Where the two disagree, UNL's number is used.",
 ]
 
 OLD_INDEX_NOTES = [
@@ -171,8 +170,8 @@ README = [
         ("Missing", "Fall 2023 new-member counts (no scorecard that term). GPAs for Spring 2020 (pass/no-pass "
                     "semester). New-member counts for Spring 2020 and Spring 2022. The Sigma Tau Gamma row in Fall "
                     "2022, which is blacked out on the PDF."),
-        ("Chapter records", "Theta Xi numbers before Fall 2018 come from AE List.xlsx and GPA Data.xlsx. From "
-                            "Fall 2018 on, only UNL's numbers are used so every house is measured the same way. "
-                            "Where our records differ, the Chapter Data notes say so."),
+        ("Chapter records", "Theta Xi numbers before Fall 2018 come from AE List.xlsx and GPA Data.xlsx. From Fall "
+                            "2018 on, UNL's numbers are used, and our records only fill spots UNL left blank "
+                            "(Spring 2020 GPA and new members, Spring 2022 and Fall 2023 new members)."),
     ]),
 ]
