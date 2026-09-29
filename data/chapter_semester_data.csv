@@ -94,7 +94,7 @@ Fall 2019,IFC,Sigma Nu,45.0,13.0,2.922,,,,,source-data/ifc-report-cards/2019-fal
 Fall 2019,IFC,Sigma Phi Epsilon,134.0,39.0,3.345,,,,,source-data/ifc-report-cards/2019-fall-ifc-report-card.pdf,
 Fall 2019,IFC,Tau Kappa Epsilon,14.0,0.0,3.196,,,,,source-data/ifc-report-cards/2019-fall-ifc-report-card.pdf,
 Fall 2019,IFC,Theta Chi,10.0,1.0,2.281,,,,,source-data/ifc-report-cards/2019-fall-ifc-report-card.pdf,
-Fall 2019,IFC,Theta Xi,86.0,25.0,2.819,,,,,source-data/ifc-report-cards/2019-fall-ifc-report-card.pdf,"Old chapter spreadsheets had members 77, new members 24; UNL report value used"
+Fall 2019,IFC,Theta Xi,86.0,25.0,2.819,,,,,source-data/ifc-report-cards/2019-fall-ifc-report-card.pdf,"Chapter records had members 77, new members 24; UNL report used so every house is measured the same way"
 Fall 2019,IFC,Triangle,24.0,0.0,3.152,,,,,source-data/ifc-report-cards/2019-fall-ifc-report-card.pdf,
 Spring 2020,IFC,Acacia,31.0,,,,,,,source-data/ifc-report-cards/2020-spring-ifc-report-card.pdf,"no GPA reported in Spring 2020 report (all N/A); grad-rate cells say ""See Fall 19 Report""; new-member column blank"
 Spring 2020,IFC,Alpha Gamma Nu,23.0,,,,,,,source-data/ifc-report-cards/2020-spring-ifc-report-card.pdf,"no GPA reported in Spring 2020 report (all N/A); grad-rate cells say ""See Fall 19 Report""; new-member column blank"
@@ -122,7 +122,7 @@ Spring 2020,IFC,Sigma Phi Epsilon,126.0,,,,,,,source-data/ifc-report-cards/2020-
 Spring 2020,IFC,Sigma Tau Gamma,14.0,,,,,,,source-data/ifc-report-cards/2020-spring-ifc-report-card.pdf,"no GPA reported in Spring 2020 report (all N/A); grad-rate cells say ""See Fall 19 Report""; new-member column blank"
 Spring 2020,IFC,Tau Kappa Epsilon,13.0,,,,,,,source-data/ifc-report-cards/2020-spring-ifc-report-card.pdf,"no GPA reported in Spring 2020 report (all N/A); grad-rate cells say ""See Fall 19 Report""; new-member column blank"
 Spring 2020,IFC,Theta Chi,6.0,,,,,,,source-data/ifc-report-cards/2020-spring-ifc-report-card.pdf,"no GPA reported in Spring 2020 report (all N/A); grad-rate cells say ""See Fall 19 Report""; new-member column blank"
-Spring 2020,IFC,Theta Xi,73.0,6.0,3.25,,,,,source-data/ifc-report-cards/2020-spring-ifc-report-card.pdf,"no GPA reported in Spring 2020 report (all N/A); grad-rate cells say ""See Fall 19 Report""; new-member column blank; New members (6) from AE List.xlsx because the UNL report left it blank; GPA (3.25) from GPA Data.xlsx because the UNL report shows N/A; Old chapter spreadsheets had members 79; UNL report value used"
+Spring 2020,IFC,Theta Xi,73.0,,,,,,,source-data/ifc-report-cards/2020-spring-ifc-report-card.pdf,"no GPA reported in Spring 2020 report (all N/A); grad-rate cells say ""See Fall 19 Report""; new-member column blank; Chapter records had members 79, new members 6; UNL report used so every house is measured the same way"
 Spring 2020,IFC,Triangle,25.0,,,,,,,source-data/ifc-report-cards/2020-spring-ifc-report-card.pdf,"no GPA reported in Spring 2020 report (all N/A); grad-rate cells say ""See Fall 19 Report""; new-member column blank"
 Fall 2020,IFC,Acacia,44.0,16.0,2.74,,,,,source-data/ifc-report-cards/2020-fall-ifc-report-card.pdf,
 Fall 2020,IFC,Alpha Gamma Nu,8.0,0.0,3.331,,,,,source-data/ifc-report-cards/2020-fall-ifc-report-card.pdf,
@@ -148,7 +148,7 @@ Fall 2020,IFC,Sigma Chi,99.0,23.0,2.966,,,,,source-data/ifc-report-cards/2020-fa
 Fall 2020,IFC,Sigma Nu,40.0,19.0,2.792,,,,,source-data/ifc-report-cards/2020-fall-ifc-report-card.pdf,
 Fall 2020,IFC,Sigma Phi Epsilon,135.0,44.0,3.444,,,,,source-data/ifc-report-cards/2020-fall-ifc-report-card.pdf,
 Fall 2020,IFC,Sigma Tau Gamma,10.0,4.0,,,,,,source-data/ifc-report-cards/2020-fall-ifc-report-card.pdf,chapter GPA and comparison cells blank; the only GPA shown sits in the New Member GPA column (could be a misplaced chapter GPA)
-Fall 2020,IFC,Theta Xi,78.0,28.0,2.957,,,,,source-data/ifc-report-cards/2020-fall-ifc-report-card.pdf,"Old chapter spreadsheets had members 81, new members 20, GPA 3.006; UNL report value used"
+Fall 2020,IFC,Theta Xi,78.0,28.0,2.957,,,,,source-data/ifc-report-cards/2020-fall-ifc-report-card.pdf,"Chapter records had members 81, new members 20, GPA 3.006; UNL report used so every house is measured the same way"
 Fall 2020,IFC,Triangle,27.0,3.0,2.97,,,,,source-data/ifc-report-cards/2020-fall-ifc-report-card.pdf,
 Spring 2021,IFC,Acacia,40.0,10.0,3.247,,,,,source-data/ifc-report-cards/2021-spring-ifc-report-card.pdf,
 Spring 2021,IFC,Alpha Gamma Nu,7.0,0.0,3.698,,,,,source-data/ifc-report-cards/2021-spring-ifc-report-card.pdf,
@@ -174,7 +174,7 @@ Spring 2021,IFC,Sigma Chi,74.0,4.0,3.405,,,,,source-data/ifc-report-cards/2021-s
 Spring 2021,IFC,Sigma Nu,46.0,5.0,3.098,,,,,source-data/ifc-report-cards/2021-spring-ifc-report-card.pdf,
 Spring 2021,IFC,Sigma Phi Epsilon,128.0,0.0,3.551,,,,,source-data/ifc-report-cards/2021-spring-ifc-report-card.pdf,
 Spring 2021,IFC,Sigma Tau Gamma,8.0,0.0,2.8,,,,,source-data/ifc-report-cards/2021-spring-ifc-report-card.pdf,
-Spring 2021,IFC,Theta Xi,74.0,10.0,3.267,,,,,source-data/ifc-report-cards/2021-spring-ifc-report-card.pdf,Old chapter spreadsheets had GPA 3.26; UNL report value used
+Spring 2021,IFC,Theta Xi,74.0,10.0,3.267,,,,,source-data/ifc-report-cards/2021-spring-ifc-report-card.pdf,Chapter records had GPA 3.26; UNL report used so every house is measured the same way
 Spring 2021,IFC,Triangle,24.0,0.0,3.15,,,,,source-data/ifc-report-cards/2021-spring-ifc-report-card.pdf,
 Fall 2021,IFC,Acacia,48.0,13.0,3.087,38.0,16.0,,,source-data/ifc-report-cards/2021-fall-ifc-report-card.pdf,
 Fall 2021,IFC,Alpha Gamma Rho,96.0,30.0,3.196,33.0,12.0,,,source-data/ifc-report-cards/2021-fall-ifc-report-card.pdf,
@@ -200,7 +200,7 @@ Fall 2021,IFC,Sigma Chi,84.0,42.0,3.247,30.0,10.0,,,source-data/ifc-report-cards
 Fall 2021,IFC,Sigma Nu,43.0,13.0,2.864,46.0,22.0,,,source-data/ifc-report-cards/2021-fall-ifc-report-card.pdf,
 Fall 2021,IFC,Sigma Phi Epsilon,143.0,40.0,3.459,14.0,4.0,,,source-data/ifc-report-cards/2021-fall-ifc-report-card.pdf,
 Fall 2021,IFC,Sigma Tau Gamma,16.0,1.0,2.888,45.0,21.0,,,source-data/ifc-report-cards/2021-fall-ifc-report-card.pdf,
-Fall 2021,IFC,Theta Xi,74.0,14.0,3.167,35.0,14.0,,,source-data/ifc-report-cards/2021-fall-ifc-report-card.pdf,"Old chapter spreadsheets had new members 13, GPA 3.16; UNL report value used"
+Fall 2021,IFC,Theta Xi,74.0,14.0,3.167,35.0,14.0,,,source-data/ifc-report-cards/2021-fall-ifc-report-card.pdf,"Chapter records had new members 13, GPA 3.16; UNL report used so every house is measured the same way"
 Fall 2021,IFC,Triangle,21.0,5.0,3.055,44.0,20.0,,,source-data/ifc-report-cards/2021-fall-ifc-report-card.pdf,
 Spring 2022,IFC,Acacia,45.0,,3.126,41.0,19.0,,,source-data/ifc-report-cards/2022-spring-ifc-report-card.pdf,
 Spring 2022,IFC,Alpha Gamma Rho,90.0,,3.367,26.0,8.0,,,source-data/ifc-report-cards/2022-spring-ifc-report-card.pdf,
@@ -226,7 +226,7 @@ Spring 2022,IFC,Sigma Chi,74.0,,3.428,22.0,7.0,,,source-data/ifc-report-cards/20
 Spring 2022,IFC,Sigma Nu,48.0,,2.884,44.0,22.0,,,source-data/ifc-report-cards/2022-spring-ifc-report-card.pdf,
 Spring 2022,IFC,Sigma Phi Epsilon,133.0,,3.527,10.0,3.0,,,source-data/ifc-report-cards/2022-spring-ifc-report-card.pdf,
 Spring 2022,IFC,Sigma Tau Gamma,8.0,,2.755,47.0,25.0,,,source-data/ifc-report-cards/2022-spring-ifc-report-card.pdf,
-Spring 2022,IFC,Theta Xi,68.0,4.0,3.316,28.0,10.0,,,source-data/ifc-report-cards/2022-spring-ifc-report-card.pdf,New members (4) from AE List.xlsx because the UNL report left it blank; Old chapter spreadsheets had GPA 3.331; UNL report value used
+Spring 2022,IFC,Theta Xi,68.0,,3.316,28.0,10.0,,,source-data/ifc-report-cards/2022-spring-ifc-report-card.pdf,"Chapter records had new members 4, GPA 3.331; UNL report used so every house is measured the same way"
 Spring 2022,IFC,Triangle,23.0,,3.223,35.0,16.0,,,source-data/ifc-report-cards/2022-spring-ifc-report-card.pdf,
 Fall 2022,IFC,Acacia,39.0,7.0,3.17,35.0,15.0,,,source-data/ifc-report-cards/2022-fall-ifc-report-card.pdf,
 Fall 2022,IFC,Alpha Gamma Rho,97.0,23.0,3.295,26.0,11.0,,,source-data/ifc-report-cards/2022-fall-ifc-report-card.pdf,
@@ -252,7 +252,7 @@ Fall 2022,IFC,Sigma Chi,96.0,40.0,3.325,24.0,9.0,,,source-data/ifc-report-cards/
 Fall 2022,IFC,Sigma Nu,37.0,1.0,2.827,42.0,21.0,,,source-data/ifc-report-cards/2022-fall-ifc-report-card.pdf,
 Fall 2022,IFC,Sigma Phi Epsilon,146.0,43.0,3.533,12.0,4.0,,,source-data/ifc-report-cards/2022-fall-ifc-report-card.pdf,
 Fall 2022,IFC,Sigma Tau Gamma,,,,,,,,source-data/ifc-report-cards/2022-fall-ifc-report-card.pdf,row is covered by a solid black box in the PDF (redacted); values intentionally not extracted
-Fall 2022,IFC,Theta Xi,71.0,17.0,3.096,39.0,18.0,,,source-data/ifc-report-cards/2022-fall-ifc-report-card.pdf,"Old chapter spreadsheets had members 70, new members 13, GPA 3.091; UNL report value used"
+Fall 2022,IFC,Theta Xi,71.0,17.0,3.096,39.0,18.0,,,source-data/ifc-report-cards/2022-fall-ifc-report-card.pdf,"Chapter records had members 70, new members 13, GPA 3.091; UNL report used so every house is measured the same way"
 Fall 2022,IFC,Triangle,21.0,6.0,3.058,41.0,20.0,,,source-data/ifc-report-cards/2022-fall-ifc-report-card.pdf,
 Spring 2023,IFC,Acacia,39.0,1.0,3.441,22.0,7.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,
 Spring 2023,IFC,Alpha Gamma Rho,96.0,2.0,3.326,27.0,10.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,
@@ -277,7 +277,7 @@ Spring 2023,IFC,Sigma Chi,91.0,,3.463,21.0,6.0,,,source-data/community-scorecard
 Spring 2023,IFC,Sigma Nu,21.0,1.0,3.125,38.0,18.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,
 Spring 2023,IFC,Sigma Phi Epsilon,140.0,,3.573,9.0,3.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,new member cell blank in PDF (possibly 0)
 Spring 2023,IFC,Theta Chi,12.0,10.0,3.115,40.0,20.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,1st-2nd yr retention shown as ##### (Excel overflow) in PDF
-Spring 2023,IFC,Theta Xi,71.0,6.0,3.121,39.0,19.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,"Old chapter spreadsheets had members 68, new members 5; UNL report value used"
+Spring 2023,IFC,Theta Xi,71.0,6.0,3.121,39.0,19.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,"Chapter records had members 68, new members 5; UNL report used so every house is measured the same way"
 Spring 2023,IFC,Triangle,25.0,3.0,2.843,47.0,25.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,1st-2nd yr retention shown as ##### (Excel overflow) in PDF; 6yr grad rate shown as ##### (Excel overflow) in PDF
 Spring 2023,MGC,Delta Phi Lambda,22.0,,3.528,15.0,2.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,1st-2nd yr retention shown as ##### (Excel overflow) in PDF; new member cell blank in PDF (possibly 0)
 Spring 2023,MGC,Delta Xi Nu,25.0,,3.21,35.0,4.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,1st-2nd yr retention shown as ##### (Excel overflow) in PDF; 6yr grad rate shown as ##### (Excel overflow) in PDF; new member cell blank in PDF (possibly 0)
@@ -307,7 +307,6 @@ Spring 2023,PHA,Phi Mu,102.0,13.0,3.484,19.0,12.0,,,source-data/community-scorec
 Spring 2023,PHA,Pi Alpha Chi,27.0,1.0,3.736,1.0,1.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,1st-2nd yr retention shown as ##### (Excel overflow) in PDF
 Spring 2023,PHA,Pi Beta Phi,164.0,6.0,3.567,11.0,7.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,
 Spring 2023,PHA,Sigma Alpha,56.0,6.0,3.371,26.0,15.0,,,source-data/community-scorecards/2023-spring-community-scorecard.pdf,1st-2nd yr retention shown as ##### (Excel overflow) in PDF; 6yr grad rate shown as ##### (Excel overflow) in PDF
-Fall 2023,IFC,Theta Xi,60.0,13.0,2.997,,,,,legacy/AE List.xlsx (Cleaned tab) + legacy/GPA Data.xlsx (UNL tab),Chapter records; no UNL report for this semester in the repo
 Spring 2024,IFC,Acacia,37.0,4.0,3.27,34.0,15.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,
 Spring 2024,IFC,Alpha Gamma Rho,101.0,4.0,3.371,22.0,6.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,
 Spring 2024,IFC,Alpha Gamma Sigma,90.0,0.0,3.313,31.0,13.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,
@@ -331,7 +330,7 @@ Spring 2024,IFC,Sigma Chi,92.0,3.0,3.363,24.0,8.0,,,source-data/community-scorec
 Spring 2024,IFC,Sigma Nu,12.0,0.0,3.234,35.0,16.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,
 Spring 2024,IFC,Sigma Phi Epsilon,153.0,0.0,3.637,6.0,2.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,
 Spring 2024,IFC,Theta Chi,27.0,13.0,2.668,46.0,24.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,
-Spring 2024,IFC,Theta Xi,48.0,5.0,3.321,29.0,11.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,"Old chapter spreadsheets had members 58, GPA 3.346; UNL report value used"
+Spring 2024,IFC,Theta Xi,48.0,5.0,3.321,29.0,11.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,"Chapter records had members 58, GPA 3.346; UNL report used so every house is measured the same way"
 Spring 2024,IFC,Triangle,23.0,4.0,2.495,48.0,25.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,
 Spring 2024,MGC,Delta Phi Lambda,21.0,0.0,3.602,7.0,2.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,
 Spring 2024,MGC,Delta Xi Nu,23.0,0.0,3.431,19.0,3.0,,,source-data/community-scorecards/2024-spring-community-scorecard.pdf,

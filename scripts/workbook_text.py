@@ -5,8 +5,8 @@ semesters are added; the tables on the Summary tab update on their own.
 """
 
 EVALUATION = [
-    "Bottom line: Theta Xi is a below-average IFC house on grades, and it has taken in fewer men than it lost "
-    "in every calendar year from 2020 through 2025. Over Spring 2024 to Spring 2026 we rank 18th of 23 active IFC houses "
+    "Bottom line: Theta Xi is a below-average IFC house on grades, and it has shrunk from 86 men (Fall 2019) "
+    "to 43 (Spring 2026) while the IFC grew. Over Spring 2024 to Spring 2026 we rank 18th of 23 active IFC houses "
     "on GPA, 20th on recruitment and 20th combined.",
 
     "GPA: we were below the IFC average (all IFC men) in every reported semester since Fall 2018 except Spring "
@@ -14,21 +14,21 @@ EVALUATION = [
     "2024 (11th of 25 that term). It opened up again in 2025: -0.32 in Spring 2025, -0.30 in Fall 2025 and -0.23 "
     "in Spring 2026 (3.163 vs 3.392, 17th of 23).",
 
-    "Against all UNL men we were ahead in 4 of the 7 semesters from Spring 2021 to Spring 2024. Campus-wide "
+    "Against all UNL men we were ahead in 4 of the 6 reported semesters from Spring 2021 to Spring 2024. Campus-wide "
     "numbers after Spring 2024 are not in the repo yet (see Campus Stats), so that comparison stops there.",
 
     "Size: from 2018 to 2023 we were a median IFC house (62 to 86 men, about 13th of 25). Since Spring 2024 we "
     "have had 43 to 48 men, about 55% of the median house (78 in Spring 2026). Over the same years total IFC "
     "membership grew from 1,641 men (Fall 2018) to 1,980 (Fall 2025), so the drop is ours, not the market's.",
 
-    "Recruiting volume: new members per calendar year were 34 (2019), 34 (2020), 24 (2021), 21 (2022), "
-    "19 (2023), 17 (2024) and 15 (2025). The average IFC house took 24 to 27 a year, so our recruiting index "
+    "Recruiting volume: new members per calendar year were 34 (2019), 24 (2021), 17 (2024) and 15 (2025). "
+    "UNL's reports are missing a term in 2020, 2022 and 2023, so those years are blank. The average IFC house took 24 to 27 a year, so our recruiting index "
     "fell from 143 in 2019 to 99 in 2021, 68 in 2024 and 56 in 2025. Our share of all IFC new members fell from "
     "5.4% to 2.3%, where an equal share is about 4%.",
 
-    "Replacement: the replacement index has been under 100 every year from 2020 through 2025: 81 (2020), 86 (2021), "
-    "88 (2022), 63 (2023), 59 (2024), 79 (2025). Each year we lost more men than we brought in, which is how "
-    "86 men in Fall 2019 became 43 in Spring 2026.",
+    "Replacement: in the years UNL's reports cover fully, the replacement index was 86 (2021) and 79 (2025), "
+    "so we lost more men than we brought in. The Fall-to-Fall roster fell in every year with two reports: "
+    "86 to 78 to 74 to 71 (2019 to 2022), then 48 to 44 (2024 to 2025).",
 
     "For our size, recruiting is closer to normal: the 2025 size-adjusted index was 89. So the problem is less "
     "that each member recruits badly and more that a smaller house brings in a smaller class, which shrinks the "
@@ -167,8 +167,8 @@ README = [
         ("Missing", "Fall 2023 scorecard. GPAs for Spring 2020 (pass/no-pass semester). New-member counts for other "
                     "houses in Spring 2020 and Spring 2022. Campus GPAs after Spring 2024. The Sigma Tau Gamma row in "
                     "Fall 2022, which is blacked out on the PDF."),
-        ("Chapter records", "Theta Xi numbers before Fall 2018 and for Fall 2023 come from AE List.xlsx and GPA "
-                            "Data.xlsx. Where UNL left our Spring 2020 GPA or our Spring 2020 and Spring 2022 new "
-                            "members blank, the chapter records fill the gap, as noted in Chapter Data."),
+        ("Chapter records", "Theta Xi numbers before Fall 2018 come from AE List.xlsx and GPA Data.xlsx. From "
+                            "Fall 2018 on, only UNL's numbers are used so every house is measured the same way. "
+                            "Where our records differ, the Chapter Data notes say so."),
     ]),
 ]
