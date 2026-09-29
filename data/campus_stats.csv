@@ -1,0 +1,33 @@
+semester,All Female,All Male,All UNL,Greek Female,Greek Male,All Greek,Non-Greek Female,Non-Greek Male,All Non-Greek,notes,IFC avg chapter size
+Fall 2010,3.226,2.949,3.081,3.404,3.117,3.117,3.18,2.918,3.039,"legacy/GPA Data.xlsx, UNL tab; All Greek equals Greek Male here (3.117), probably a typo in the original sheet",60.0
+Spring 2011,2.813,2.55,2.733,3.379,3.059,3.219,2.691,2.472,,All Non-Greek was a formula (=AVERAGE(I3:J3)) in GPA Data.xlsx; left blank. ,57.0
+Fall 2011,3.165,2.909,3.04,3.365,3.081,3.223,3.115,2.874,,All Non-Greek was a formula (=AVERAGE(I4:J4)) in GPA Data.xlsx; left blank. ,62.0
+Spring 2012,3.195,2.931,3.063,3.403,3.119,3.261,3.138,2.893,3.016,"legacy/GPA Data.xlsx, UNL tab",57.0
+Fall 2012,3.185,2.91,3.05,3.375,3.074,3.224,3.135,2.877,,All Non-Greek was a formula (=AVERAGE(I6:J6)) in GPA Data.xlsx; left blank. ,64.0
+Spring 2013,3.216,2.962,3.089,3.44,3.158,3.299,3.154,2.922,3.038,"legacy/GPA Data.xlsx, UNL tab",64.0
+Fall 2013,3.194,2.915,3.054,3.382,3.116,3.249,3.142,2.872,3.007,"legacy/GPA Data.xlsx, UNL tab",70.0
+Spring 2014,3.191,2.925,3.058,3.397,3.122,3.26,3.131,2.884,3.007,"legacy/GPA Data.xlsx, UNL tab",65.0
+Fall 2014,3.183,2.927,3.055,3.386,3.125,3.255,3.124,2.887,3.006,"legacy/GPA Data.xlsx, UNL tab",70.0
+Spring 2015,3.212,2.933,3.073,3.422,3.114,3.268,3.147,2.894,3.02,"legacy/GPA Data.xlsx, UNL tab",72.0
+Fall 2015,3.208,2.936,3.072,3.379,3.133,3.256,3.155,2.891,3.023,"legacy/GPA Data.xlsx, UNL tab",81.0
+Spring 2016,3.228,2.947,3.088,3.422,3.132,3.277,3.166,2.903,3.034,"legacy/GPA Data.xlsx, UNL tab",77.0
+Fall 2016,3.211,2.938,3.074,3.398,3.098,3.248,3.151,2.88,3.024,"legacy/GPA Data.xlsx, UNL tab",80.0
+Spring 2017,3.232,2.952,3.092,3.438,3.141,3.289,3.165,2.906,3.036,"legacy/GPA Data.xlsx, UNL tab",72.0
+Fall 2017,3.239,2.981,3.11,3.437,3.159,3.298,3.178,2.944,3.061,"legacy/GPA Data.xlsx, UNL tab",73.0
+Spring 2018,3.274,2.977,3.125,3.473,3.171,3.322,3.206,2.934,3.07,"legacy/GPA Data.xlsx, UNL tab",66.0
+Fall 2018,3.236,2.976,3.106,3.4,3.149,3.275,3.18,2.942,3.061,"legacy/GPA Data.xlsx, UNL tab",66.0
+Spring 2019,3.287,3.012,3.149,3.455,3.154,3.305,3.227,2.982,3.104,"legacy/GPA Data.xlsx, UNL tab",64.0
+Fall 2019,3.271,3.032,3.152,3.436,3.133,3.285,3.212,3.008,3.11,"legacy/GPA Data.xlsx, UNL tab; the Fall 2019 IFC report card prints UNL Men = 3.096, not 3.032",65.64
+Spring 2020,3.552,3.365,3.439,3.69,3.439,3.565,3.5,3.347,3.423,"legacy/GPA Data.xlsx, UNL tab; pass/no-pass COVID semester; the UNL chapter report printed no GPAs",77.24
+Fall 2020,3.279,3.032,3.12,3.498,3.213,3.356,3.203,2.989,3.091,"legacy/GPA Data.xlsx, UNL tab",75.84
+Spring 2021,3.39,3.187,3.288,3.563,3.307,3.435,3.326,3.155,3.236,"legacy/GPA Data.xlsx, UNL tab",73.68
+Fall 2021,3.294,3.084,3.189,3.464,3.221,3.343,3.237,3.051,3.144,"legacy/GPA Data.xlsx, UNL tab",71.76
+Spring 2022,3.342,3.161,3.253,3.519,3.29,3.419,3.282,3.127,3.204,"legacy/GPA Data.xlsx, UNL tab",69.76
+Fall 2022,3.343,3.131,3.24,3.502,3.265,3.396,3.294,3.098,3.196,"legacy/GPA Data.xlsx, UNL tab",72.88
+Spring 2023,3.395,3.198,3.296,3.542,3.337,3.44,3.346,3.162,3.255,"legacy/GPA Data.xlsx, UNL tab",67.76
+Fall 2023,3.343,3.132,3.241,3.464,3.257,3.37,3.306,3.099,3.205,"legacy/GPA Data.xlsx, UNL tab; matches the Fall 2023 All-Community Grade Report",74.0
+Spring 2024,3.396,3.208,3.305,3.506,3.328,3.426,3.361,3.175,3.269,"legacy/GPA Data.xlsx, UNL tab",
+Fall 2024,3.363,3.187,3.277,3.497,3.35,3.429,3.325,3.143,3.232,"UNL All-Community Grade Reports, Spring 2025 and Fall 2025 (prior-term columns)",
+Spring 2025,3.404,3.22,3.313,3.528,3.367,3.455,3.361,3.177,3.269,"UNL All-Community Grade Report, Spring 2025",
+Fall 2025,3.384,3.196,3.294,3.515,3.316,3.506,3.337,3.163,3.244,"UNL All-Community Grade Report, Fall 2025; All Greek as printed is higher than both Greek men and Greek women, so UNL likely misprinted it",
+Spring 2026,3.4,3.226,3.27,3.516,3.384,3.525,3.359,3.185,3.221,"UNL All-Community Grade Report, Spring 2026; All Greek as printed is higher than both Greek men and Greek women, so UNL likely misprinted it",
