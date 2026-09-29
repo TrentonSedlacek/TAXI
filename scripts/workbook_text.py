@@ -14,10 +14,11 @@ EVALUATION = [
     "2024 (11th of 25 that term). It opened up again in 2025: -0.32 in Spring 2025, -0.30 in Fall 2025 and -0.23 "
     "in Spring 2026 (3.163 vs 3.392, 17th of 23).",
 
-    "Against all UNL men we were ahead in 4 of the 6 reported semesters from Spring 2021 to Spring 2024. Campus-wide "
-    "numbers after Spring 2024 are not in the repo yet (see Campus Stats), so that comparison stops there.",
+    "Against all UNL men we were ahead in 5 of the 11 semesters from Spring 2021 to Spring 2026, but behind for "
+    "the last three in a row: 3.053 vs 3.220 (Spring 2025), 3.033 vs 3.196 (Fall 2025) and 3.163 vs 3.226 "
+    "(Spring 2026).",
 
-    "Size: from 2018 to 2023 we were a median IFC house (62 to 86 men, about 13th of 25). Since Spring 2024 we "
+    "Size: from 2018 to 2023 we were a median IFC house (60 to 86 men, about 13th of 25). Since Spring 2024 we "
     "have had 43 to 48 men, about 55% of the median house (78 in Spring 2026). Over the same years total IFC "
     "membership grew from 1,641 men (Fall 2018) to 1,980 (Fall 2025), so the drop is ours, not the market's.",
 
@@ -26,9 +27,9 @@ EVALUATION = [
     "fell from 143 in 2019 to 99 in 2021, 68 in 2024 and 56 in 2025. Our share of all IFC new members fell from "
     "5.4% to 2.3%, where an equal share is about 4%.",
 
-    "Replacement: in the years UNL's reports cover fully, the replacement index was 86 (2021) and 79 (2025), "
-    "so we lost more men than we brought in. The Fall-to-Fall roster fell in every year with two reports: "
-    "86 to 78 to 74 to 71 (2019 to 2022), then 48 to 44 (2024 to 2025).",
+    "Replacement: in the years UNL's reports cover fully, the replacement index was 86 (2021), 59 (2024) and "
+    "79 (2025), so we lost more men than we brought in. Our Fall roster has dropped every year since 2019: "
+    "86, 78, 74, 71, 60, 48, 44.",
 
     "For our size, recruiting is closer to normal: the 2025 size-adjusted index was 89. So the problem is less "
     "that each member recruits badly and more that a smaller house brings in a smaller class, which shrinks the "
@@ -50,10 +51,11 @@ EVALUATION = [
     "Epsilon and Beta Theta Pi lead on GPA but sit in the bottom half on recruitment, mostly because they bring "
     "in fewer new men per member.",
 
-    "Caveats: there is no Fall 2023 report in the repo, and the 2025 and 2026 CSV exports do not include the "
-    "campus-wide GPAs. UNL's Spring 2020 report has no GPAs (pass/no-pass semester). Some old chapter spreadsheets "
-    "disagree with UNL's reports (for example Fall 2019: 77 vs 86 members). The UNL report is used everywhere, "
-    "and each difference is written in the Chapter Data notes.",
+    "Caveats: UNL has no Fall 2023 scorecard, so that semester uses the Fall 2023 All-Community Grade Report "
+    "(GPA and members for every house, but no new-member counts). UNL's Spring 2020 report has no GPAs "
+    "(pass/no-pass semester), and the Spring 2020 and Spring 2022 reports leave out new members. Some of our "
+    "chapter records disagree with UNL's reports (for example Fall 2019: 77 vs 86 members). UNL's numbers are "
+    "used everywhere so every house is measured the same way.",
 ]
 
 OLD_INDEX_NOTES = [
@@ -140,8 +142,8 @@ README = [
          "If a new IFC house appears, add it to column D on the Lists tab. The matrices and Combined Score have "
          "five spare rows for new houses."),
         ("3. Campus Stats",
-         "Type in the all-campus GPAs from UNL's All-Community Academic Report (fsl.unl.edu). Orange cells are "
-         "the ones still missing."),
+         "Type in the all-campus GPAs from UNL's All-Community Grade Report (fsl.unl.edu, Councils & Chapters "
+         "page, Academic Reports)."),
         ("4. Settings",
          "Update 'Latest semester' on the Lists tab, the recruitment year on Summary and the window on Combined "
          "Score. Then reread the written evaluation on Summary, since it does not update itself."),
@@ -161,12 +163,14 @@ README = [
         ("Percentiles", "Among IFC houses in the Combined Score window. 100% = best, 0% = worst."),
     ]),
     ("Sources and gaps", [
-        ("Reports", "UNL IFC report cards for Fall 2018 to Fall 2022 and Community Scorecards for Spring 2023 to "
-                    "Spring 2026, all in source-data/. The data is also kept as a CSV in data/."),
-        ("Campus GPAs", "The UNL tab of GPA Data.xlsx, through Spring 2024."),
-        ("Missing", "Fall 2023 scorecard. GPAs for Spring 2020 (pass/no-pass semester). New-member counts for other "
-                    "houses in Spring 2020 and Spring 2022. Campus GPAs after Spring 2024. The Sigma Tau Gamma row in "
-                    "Fall 2022, which is blacked out on the PDF."),
+        ("Reports", "UNL IFC report cards for Fall 2018 to Fall 2022, Community Scorecards for Spring 2023 to "
+                    "Spring 2026, and the Fall 2023 All-Community Grade Report, all in source-data/. The data is "
+                    "also kept as a CSV in data/."),
+        ("Campus GPAs", "UNL All-Community Grade Reports (the UNL tab of GPA Data.xlsx through Spring 2024, then the "
+                        "Spring 2025, Fall 2025 and Spring 2026 reports)."),
+        ("Missing", "Fall 2023 new-member counts (no scorecard that term). GPAs for Spring 2020 (pass/no-pass "
+                    "semester). New-member counts for Spring 2020 and Spring 2022. The Sigma Tau Gamma row in Fall "
+                    "2022, which is blacked out on the PDF."),
         ("Chapter records", "Theta Xi numbers before Fall 2018 come from AE List.xlsx and GPA Data.xlsx. From "
                             "Fall 2018 on, only UNL's numbers are used so every house is measured the same way. "
                             "Where our records differ, the Chapter Data notes say so."),
